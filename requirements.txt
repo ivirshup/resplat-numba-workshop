@@ -1,0 +1,6 @@
+numba
+pandas
+seaborn
+numpy
+ipython
+notebook
